@@ -58,4 +58,3 @@ let quantity = 1;
 binance.marketBuy("BNBBTC", quantity);
 binance.marketSell("ETHBTC", quantity);
 
-
